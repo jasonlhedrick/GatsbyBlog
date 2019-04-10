@@ -16,6 +16,7 @@ const IndexPage = () => (
     </div>
     <Link to="/labs-1/">Labs 1 - Start Up</Link> - 
     <Link to ='/labs-2/'>Labs 2 - oAuth and APIs</Link>
+    <Link to='/labs-3/'>Labs 3 - Requirements wrap up</Link>
   </Layout>
 )
 
